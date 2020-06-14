@@ -19,8 +19,15 @@ using BetanyPieShop_coreMVC.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "F:\Pluralsight_Courses\BetanyPieShop_coreMVC\Views\_ViewImports.cshtml"
+using BetanyPieShop_coreMVC.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e5f394fdf3cf4b29482388a22f481f79f92d3ce0", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a863950c48b351582a8f132b635df9e74a069a07", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

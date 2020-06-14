@@ -30,5 +30,14 @@ namespace BetanyPieShop_coreMVC.Controllers
             };
             return View(piesListViewModel);
         }
+
+        public IActionResult Details(int id)
+        {
+            var pie = this._pieRepository.GetPieById(id);
+
+            if (pie == null)
+                return NotFound();
+            return View(pie);
+        }
     }
 }

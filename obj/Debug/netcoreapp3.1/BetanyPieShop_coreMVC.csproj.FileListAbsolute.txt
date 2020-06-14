@@ -66,3 +66,4 @@ F:\Pluralsight_Courses\BetanyPieShop_coreMVC\bin\Debug\netcoreapp3.1\Microsoft.E
 F:\Pluralsight_Courses\BetanyPieShop_coreMVC\obj\Debug\netcoreapp3.1\BetanyPieShop_coreMVC.csproj.CoreCompileInputs.cache
 F:\Pluralsight_Courses\BetanyPieShop_coreMVC\obj\Debug\netcoreapp3.1\BetanyPieShop_coreMVC.MvcApplicationPartsAssemblyInfo.cache
 F:\Pluralsight_Courses\BetanyPieShop_coreMVC\obj\Debug\netcoreapp3.1\BetanyPieShop_coreMVC.csprojAssemblyReference.cache
+F:\Pluralsight_Courses\BetanyPieShop_coreMVC\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
